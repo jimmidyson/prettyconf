@@ -1,0 +1,19 @@
+# TopLevel holds the details for top level config.
+
+# a is field for AStruct.
+a:
+    # enested comment.
+    enested:
+        # f comment.
+        f: somestring
+    # d comment.
+    d: 5
+cnocomment:
+    # h comment.
+    h: something new
+# b holds the comment here.
+b:
+    # g comment.
+    g: ""
+# bs holds a slice.
+bs: []
